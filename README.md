@@ -1,22 +1,42 @@
 # JavaScript-API-Design
 
-## When to Use What: REST, GraphQL, Webhooks, & gRPC
+## General
+
+### When to Use What: REST, GraphQL, Webhooks, & gRPC
 https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/
 
-## Is REST Still a Relevant API Style?
+### Is REST Still a Relevant API Style?
 https://nordicapis.com/is-rest-still-a-relevant-api-style/
 
-## An intro to server sent events
+## SSE
+
+### An intro to server sent events
 https://iabhishek.dev/post/an-intro-to-server-sent-events
 
-## Working with Protobufs in Node.js
+## gRPC
+
+### Working with Protobufs in Node.js
 https://thecodebarbarian.com/working-with-protobufs-in-node-js.html
 
-## How to Easily use GRPC and Protocol Buffers with NodeJS
+### How to Easily use GRPC and Protocol Buffers with NodeJS
 https://adityasridhar.com/posts/how-to-easily-use-grpc-and-protocol-buffers-with-nodejs
 
-## Node.js: Protobuf, gRPC and Discovery Services
+### Node.js: Protobuf, gRPC and Discovery Services
 https://medium.com/@FloSloot/node-js-protobuf-grpc-and-discovery-services-fd099a3fe51a
 
-## How to use gRPC and protobuf in nodeJS microservice?
+### How to use gRPC and protobuf in nodeJS microservice?
 https://medium.com/@saumya.ranjan/how-to-use-grpc-and-protobuf-in-nodejs-microservice-350b153a748f
+
+## SOAP
+
+### XML Request and Response with Express.js
+https://www.akinjide.me/2019/xml-request-and-response-with-express-js/
+
+### XML, read, send, write: Javascript front to Express/Node.js back
+https://medium.com/swlh/xml-read-send-write-javascript-front-to-node-back-167df21c98df
+
+### How to Perform SOAP Requests With Node.js
+https://betterprogramming.pub/how-to-perform-soap-requests-with-node-js-4a9627070eb6
+
+### With Node.js: Wrap Backend SOAP Webservices In a RESTful API
+https://medium.com/metrosystemsro/with-node-js-wrap-backend-soap-webservices-in-a-restful-api-a96887575046
