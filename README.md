@@ -8,12 +8,39 @@ https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/
 ### Is REST Still a Relevant API Style?
 https://nordicapis.com/is-rest-still-a-relevant-api-style/
 
+## WebHook
+
+### Web-hooks Tutorial with Discord and Vanilla Javascript (fetch api)
+https://www.youtube.com/watch?v=-4Lid7tBr6Y
+
+## WebSocket
+
+### WebSockets Crash Course - Handshake, Use-cases, Pros & Cons and more
+https://www.youtube.com/watch?v=2Nt-ZrNP22A
+
+## XMPP
+
+### XMPP - Extensible Messaging and Presence Protocol (with Node JS and eJabberd)
+https://www.youtube.com/watch?v=OVN99SgBGkM
+
+### Web Sockets vs. XMPP: Which Is Better For Chat Application?
+https://medium.com/@thinkwik/web-sockets-vs-xmpp-which-is-better-for-chat-application-113e3520b327
+
+### XMPP With Node.js
+https://ackso.net/post/xmpp-with-nodejs/
+
 ## SSE
 
 ### An intro to server sent events
 https://iabhishek.dev/post/an-intro-to-server-sent-events
 
+### Server-Sent Events Crash Course
+https://www.youtube.com/watch?v=4HlNv1qpZFY
+
 ## gRPC
+
+### gRPC Crash Course - Modes, Examples, Pros & Cons and more
+https://www.youtube.com/watch?v=Yw4rkaTc0f8
 
 ### Working with Protobufs in Node.js
 https://thecodebarbarian.com/working-with-protobufs-in-node-js.html
@@ -26,6 +53,9 @@ https://medium.com/@FloSloot/node-js-protobuf-grpc-and-discovery-services-fd099a
 
 ### How to use gRPC and protobuf in nodeJS microservice?
 https://medium.com/@saumya.ranjan/how-to-use-grpc-and-protobuf-in-nodejs-microservice-350b153a748f
+
+### Protocol Buffers Crash Course
+https://www.youtube.com/watch?v=46O73On0gyI
 
 ## SOAP
 
