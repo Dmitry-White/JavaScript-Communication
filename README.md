@@ -34,6 +34,9 @@ https://ackso.net/post/xmpp-with-nodejs/
 ### An intro to server sent events
 https://iabhishek.dev/post/an-intro-to-server-sent-events
 
+### Load Balancing Server-Sent Events (SSE) Backends with Round Robin
+https://www.youtube.com/watch?v=qoEq_Ro1wjU
+
 ### Server-Sent Events Crash Course
 https://www.youtube.com/watch?v=4HlNv1qpZFY
 
