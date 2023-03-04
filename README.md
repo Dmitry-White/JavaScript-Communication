@@ -83,3 +83,7 @@ https://medium.com/metrosystemsro/with-node-js-wrap-backend-soap-webservices-in-
 [WSDL](https://www.guru99.com/wsdl-web-services-description-language.html)
 
 [SoapUI](https://www.soapui.org/downloads/soapui/)
+
+[SOAP vs REST vs GraphQL vs RPC](https://blog.bytebytego.com/p/soap-vs-rest-vs-graphql-vs-rpc)
+
+[Comparing API Architectural Styles: SOAP vs REST vs GraphQL vs RPC](https://www.altexsoft.com/blog/soap-vs-rest-vs-graphql-vs-rpc/)
