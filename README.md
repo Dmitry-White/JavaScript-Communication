@@ -2,6 +2,9 @@
 
 ## General
 
+![image](https://user-images.githubusercontent.com/25229823/222909154-d2e43c34-b8ac-413a-8fa5-39bd1cd1ee3a.png)
+
+
 ### When to Use What: REST, GraphQL, Webhooks, & gRPC
 https://nordicapis.com/when-to-use-what-rest-graphql-webhooks-grpc/
 
